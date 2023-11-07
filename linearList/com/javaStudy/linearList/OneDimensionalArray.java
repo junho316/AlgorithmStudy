@@ -1,6 +1,6 @@
 package com.javaStudy.linearList;
 
-public class oneDimensionalArray {
+public class OneDimensionalArray {
 
 	public static void main(String[] args) {
 		int[] sale = new int[] { 157, 209, 251, 312 };
