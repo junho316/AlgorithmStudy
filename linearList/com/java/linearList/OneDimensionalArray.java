@@ -1,4 +1,4 @@
-package com.javaStudy.linearList;
+package com.java.linearList;
 
 public class OneDimensionalArray {
 
